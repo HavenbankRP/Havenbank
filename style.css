@@ -1,0 +1,41 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #ffffff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.logo {
+    height: 80px;
+}
+
+.link1 p {
+    display: inline;
+    margin: 0 10px;
+}
+
+.text1 {
+    text-decoration: none;
+    color: #0356fd;
+    font-weight: bold;
+}
+
+.text2, .bt3, .play, .spiel {
+    text-align: center;
+    margin: 20px;
+}
+
+.char img {
+    max-width: 100%;
+    height: auto;
+}
